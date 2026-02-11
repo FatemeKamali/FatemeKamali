@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Level+Up:+Product+Designer;Loading+React+Skill...;System+Status:+Coding;Mastering+The+Pixel+🎨" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Product+Designer+🎨;React+Developer+⚡;Math+Enthusiast+📐;Problem+Solver+🧠" />
-</p>
-
 ---
 
 ### 🔮 Tech Stack & Design Tools
