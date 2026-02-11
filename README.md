@@ -1,10 +1,44 @@
-## Hi there 👋
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatemeKamali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=7B2CBF&height=200&section=header&text=Fateme%20Kamali&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Product+Designer+🎨;React+Developer+⚡;Math+Enthusiast+📐;Problem+Solver+🧠" />
+</p>
+
+---
+
+### 🔮 Tech Stack & Design Tools
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,py,js,tailwind,figma,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,py,figma&theme=dark" />
   </a>
+</p>
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FatemeKamali&show_icons=true&theme=visual_studio_code&title_color=9D4EDD&icon_color=7B2CBF&text_color=ffffff&bg_color=0D1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatemeKamali&layout=compact&theme=visual_studio_code&title_color=9D4EDD&icon_color=7B2CBF&text_color=ffffff&bg_color=0D1117&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatemeKamali&theme=visual_studio_code&hide_border=true&ring=7B2CBF&fire=9D4EDD&currStreakLabel=9D4EDD" />
+</p>
+
+---
+
+### 🥋 About Me
+- **UI/UX Expert:** 1 year of professional design experience with 3 certifications.
+- **Academic Mentor:** 4 years of experience as a private Math tutor and Teaching Assistant in design & programming.
+- **Martial Artist:** Practicing Judo twice a week—bringing discipline and resilience to my professional workflow.
+- **Focus:** Bridging the gap between high-fidelity design and functional code.
+
+---
+
+### 💜 Let's Connect
+<p align="center">
+<a href="https://www.linkedin.com/in/FatemeKamali"><img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
