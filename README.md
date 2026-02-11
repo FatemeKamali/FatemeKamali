@@ -29,14 +29,6 @@
 
 ---
 
-### 🥋 About Me
-- **UI/UX Expert:** 1 year of professional design experience with 3 certifications.
-- **Academic Mentor:** 4 years of experience as a private Math tutor and Teaching Assistant in design & programming.
-- **Martial Artist:** Practicing Judo twice a week—bringing discipline and resilience to my professional workflow.
-- **Focus:** Bridging the gap between high-fidelity design and functional code.
-
----
-
 ### 💜 Let's Connect
 <p align="center">
 <a href="https://www.linkedin.com/in/FatemeKamali"><img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
