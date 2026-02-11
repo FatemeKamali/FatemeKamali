@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Fateme%20Kamali&fontSize=80&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=Fateme%20Kamali%20👾&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Level+Up:+Product+Designer;Loading+React+Skill...;System+Status:+Coding;Mastering+The+Pixel+🎨" />
 </p>
 
 <p align="center">
