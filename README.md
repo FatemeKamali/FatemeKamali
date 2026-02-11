@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=7B2CBF&height=120&section=header&text=🆂🆈🆂🆃🅴🅼%20🆁🅴🅰🅳🆈%20👾&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=7B2CBF&height=100&section=header&text=👾%20⚡%20👾&fontSize=50&fontAlignY=45&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ### 🔮 Tech Inventory
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=7B2CBF&height=80&section=header&text=🅸🅽🆅🅴🅽🆃🅾🆁🆈&fontSize=25&fontAlignY=45&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=7B2CBF&height=60&section=header&text=🅸🅽🆅🅴🅽🆃🅾🆁🆈&fontSize=20&fontAlignY=45&fontColor=ffffff" />
 </p>
 
 <p align="center">
